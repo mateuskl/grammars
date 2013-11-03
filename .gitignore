@@ -1,1 +1,8 @@
 *.class
+antlr3/exp_eval/eval_only/Expr.tokens
+antlr3/exp_eval/eval_only/ExprLexer.java
+antlr3/exp_eval/eval_only/ExprParser.java
+antlr3/exp_eval/build_tree/Expr.tokens
+antlr3/exp_eval/build_tree/ExprLexer.java
+antlr3/exp_eval/build_tree/ExprParser.java
+
