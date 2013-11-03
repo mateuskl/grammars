@@ -5,4 +5,9 @@ antlr3/exp_eval/eval_only/ExprParser.java
 antlr3/exp_eval/build_tree/Expr.tokens
 antlr3/exp_eval/build_tree/ExprLexer.java
 antlr3/exp_eval/build_tree/ExprParser.java
+antlr3/exp_eval/read_tree_eval_expr/Eval.java
+antlr3/exp_eval/read_tree_eval_expr/Eval.tokens
+antlr3/exp_eval/read_tree_eval_expr/Expr.tokens
+antlr3/exp_eval/read_tree_eval_expr/ExprLexer.java
+antlr3/exp_eval/read_tree_eval_expr/ExprParser.java
 
